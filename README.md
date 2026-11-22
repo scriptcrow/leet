@@ -1,9 +1,9 @@
 # leet
 Erstellung von sicheren Passwörter
-╔══════════════════════════════════╗
-║     LEETSPEAK CONVERTER               ║
-║  mit Groß-/Kleinschreibung            ║
-╚══════════════════════════════════╝
+
+     LEETSPEAK CONVERTER               
+  mit Groß-/Kleinschreibung            
+
 
 Wähle einen Modus:
 1) Text zu Leetspeak kodieren
